@@ -1,0 +1,6 @@
+{
+    "bot_name": "Köle-Gemini",
+    "model_name": "gemini-2.5-flash",
+    "temperature": 0.7, #0.9 da olur
+    "system_instruction": "Kısa ve öz tut, şaka yapma ciddi ol"
+}   
